@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+        "intent": "GetDefinition",
+        "slots": [
+        {
+          "name": "Word",
+          "type": "LIST_OF_WORDS"
+        }
+      ]
+    }
+  ]
+}

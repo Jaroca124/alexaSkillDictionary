@@ -1,0 +1,5 @@
+GetDefinition  define {word}
+GetDefinition  what does {word} mean
+GetDefinition  {word} definition
+GetDefinition  definition of {word}
+GetDefinition  what is the definition of {word}
